@@ -316,3 +316,10 @@ body{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+
+footer {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 13px;
+}
